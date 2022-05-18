@@ -5,6 +5,7 @@
   <a href="#-licença">Licença</a>
 </p>
 
+---
 
 <br>
 
@@ -15,7 +16,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week - Return](https://n
 
 <br> 
 
-# 🚀 Tecnologias
+# 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -50,6 +51,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
+# 🚀 Como executar
+
+  
+
+<br>
+
 # 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget). Lembrando que é necessário ter uma conta no [Figma](http://figma.com/) para acessá-lo.
@@ -61,6 +68,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 <br> 
+
+---
 
 Feito com ❤️ por <a href="https://github.com/vinivdev">Vinicius de Paula Silva</a> :wave: 
 
