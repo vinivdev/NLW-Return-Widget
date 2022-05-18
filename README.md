@@ -53,7 +53,37 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 🚀 Como executar
 
-  
+<br>
+
+> ###  ⚠️ **_Atenção_**&nbsp;: &nbsp; Para instalar as dependências do projeto é necessário um  gerenciador de pacotes/depedências de projeto, como [**_yarn_**](https://yarnpkg.com/) *ou* [**_npm_**](https://www.npmjs.com/).
+
+<br>
+
+### Para executar o back-end:
+
+<br>
+
+ > ### ⚠️ **_Atenção_**&nbsp;: &nbsp; É necessário ter instalado o [Node.js](https://nodejs.org/en/) para executar o Back-end!!! 
+
+
+ <br>
+
+1. &nbsp; Acesse a pasta *_server_*.
+```
+$ cd server
+```
+2. &nbsp; Instale as dependências com :
+```
+$ npm install
+```
+ou
+```
+$ yarn install
+```
+3. &nbsp; Execute o projeto com:
+```
+$ npm run dev
+```
 
 <br>
 
