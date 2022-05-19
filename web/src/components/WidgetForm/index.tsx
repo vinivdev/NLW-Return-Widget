@@ -62,7 +62,7 @@ function handleRestartFeedback(){
             )}
 
             <footer className="text-xs text-neutral-400">
-                Feito com ♥ pela <a className="underline underline-offset-2" href="https://rocketseat.com.br">Rocketseat</a>
+                Feito com ♥ por <a className="underline underline-offset-2" href="https://github.com/vinivdev">Vinicius de Paula Silva</a>
             </footer>
 
         </div>
