@@ -10,6 +10,7 @@
 <br>
 
 # 💻 Projeto
+Um Widget de Feedback que envia o conteúdo do feedback para o email de suporte e também amarzena no banco de dados as informações do feedback.
 Este é um projeto desenvolvido durante a **[Next Level Week - Return](https://nextlevelweek.com/)**, apresentada nos dias 01 a 08 de Maio de 2022.
 
 [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
