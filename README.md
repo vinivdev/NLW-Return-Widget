@@ -16,6 +16,12 @@ Este é um projeto desenvolvido durante a **[Next Level Week - Return](https://n
 
 <br> 
 
+# 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget). Lembrando que é necessário ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+<br>
+
 # 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -51,24 +57,36 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
+
 # 🚀 Como executar
 
-<br>
+  ###  🛑 **_Requisitos:_**
 
-> ###  ⚠️ **_Atenção_**&nbsp;: &nbsp; Para instalar as dependências do projeto é necessário um  gerenciador de pacotes/depedências de projeto, como [**_yarn_**](https://yarnpkg.com/) *ou* [**_npm_**](https://www.npmjs.com/).
-
-<br>
-
-### Para executar o back-end:
+ * É necessário ter [**_yarn_**](https://yarnpkg.com/) *ou* [**_npm_**](https://www.npmjs.com/) instalado para instalar as dependências do projeto.
+ * É necessário ter instalado o [Node.js](https://nodejs.org/en/) para executar o **Back-end** do projeto.
+ * É necessário ter instalado o [Expo](https://expo.dev/) para executar o **front-end Mobile**.
 
 <br>
 
- > ### ⚠️ **_Atenção_**&nbsp;: &nbsp; É necessário ter instalado o [Node.js](https://nodejs.org/en/) para executar o Back-end!!! 
+Clone o repositório
 
+```
+$ git clone https://github.com/vinivdev/NLW-Return-Widget.git
+```
 
- <br>
+Abra a pasta do projeto
 
-1. &nbsp; Acesse a pasta *_server_*.
+```
+$ cd NLW-Return-Widget/
+```
+
+<br>
+
+## Executando o **back-end**
+
+<br>
+
+1. &nbsp; Acesse a pasta *_server_*. _(a partir da pasta raiz do projeto)_
 ```
 $ cd server
 ```
@@ -84,12 +102,67 @@ $ yarn install
 ```
 $ npm run dev
 ```
+### 🏁 O back-end está em execução 🏁
 
 <br>
 
-# 🔖 Layout
+> #### ⛔ &nbsp; Para cancelar a execução clique no terminal e pressione ```Ctrl-C```.
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget). Lembrando que é necessário ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+<br>
+
+## Executando o **front-end Web**
+
+<br>
+
+1. &nbsp; Acesse a pasta **_web_** _(a partir da pasta raiz do projeto)_
+```
+$ cd web
+```
+2. &nbsp; Instale as dependências com :
+```
+$ npm install
+```
+&nbsp; ou
+```
+$ yarn install
+```
+3. &nbsp; Execute o projeto
+```
+$ npm run dev
+```
+### 🏁 A aplicação estará disponivel através da porta local: **`http://localhost:3000/`** 🏁
+
+<br>
+
+> #### ⛔ &nbsp; Para cancelar a execução clique no terminal e pressione ```Ctrl-C```.
+
+<br>
+
+## Executando o **front-end Mobile**
+
+ <br> 
+
+1. &nbsp; Acesse a pasta **_web_** _(a partir da pasta raiz do projeto)_
+```
+$ cd mobile
+```
+2. &nbsp; Instale as dependências com :
+```
+$ npm install
+```
+&nbsp; ou
+```
+$ yarn install
+```
+3. &nbsp; Execute o projeto
+```
+$ expo start
+```
+### 🏁 Através do app [Expo Go](https://expo.dev/client) escaneie o QR code ou insira o link refenciado no terminal para executar a aplicação no seu smartphone. 🏁
+
+<br>
+
+> #### ⛔ &nbsp; Para cancelar a execução clique no terminal e pressione ```Ctrl-C```.
 
 <br>
 
